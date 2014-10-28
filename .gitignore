@@ -13,3 +13,8 @@ themes/*
 .buildpath
 .settings/
 .svn/
+doc/
+*.swp
+*~
+.project
+.DS_Store
